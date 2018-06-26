@@ -4,3 +4,6 @@ spring:
     username: <your-db-user>
     password: <your-db-password>
     driverClassName: com.mysql.cj.jdbc.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
