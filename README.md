@@ -12,3 +12,8 @@ mvn clean spring-boot:run
 # show hello world
 open http://localhost:8080
 ```
+
+## environment
+
+- Java: 10.0.1
+- Apache Maven: 3.5.3
