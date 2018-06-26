@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:mysql://localhost/java-crud
+    url: jdbc:mysql://localhost/java_crud?createDatabaseIfNotExist=true&autoReconnect=true&useSSL=false
     username: <your-db-user>
     password: <your-db-password>
-    driverClassName: com.mysql.jdbc.Driver
+    driverClassName: com.mysql.cj.jdbc.Driver
