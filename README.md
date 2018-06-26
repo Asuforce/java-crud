@@ -15,5 +15,5 @@ open http://localhost:8080
 
 ## environment
 
-- Java: 10.0.1
+- Java: 1.8.0
 - Apache Maven: 3.5.3
