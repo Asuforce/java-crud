@@ -7,3 +7,7 @@ spring:
   jpa:
     hibernate:
       ddl-auto: update
+  messages:
+    basename: "i18n/messages"
+    cache-duration: -1
+    encoding: UTF-8
